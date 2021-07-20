@@ -1,0 +1,10 @@
+button{
+    margin-right: 7px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(73, 250, 3);
+    border: 3px solid red;
+}
+body{
+    background-color: bisque;
+}
